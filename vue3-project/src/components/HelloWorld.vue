@@ -34,7 +34,7 @@
 export default {
   name: 'HelloWorld',
   props: {
-    msg: String
+    msg: 'This is a vue3 test project'
   }
 }
 </script>
